@@ -6,3 +6,5 @@ W3Duck! es un proyecto iniciado por LaBuhardillaDelLoco donde hemos unido lo mej
 
 Las placas usadas en este proyecto son la Cjmcu bad usb y la wemos d1 mini aunque podrían ser otras con características similares.
 
+<img src="/W3Duck/logo.png" alt="My cool logo"/>
+
