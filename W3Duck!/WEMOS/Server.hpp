@@ -23,5 +23,4 @@ void InitServer(){
    server.on("/prueba", comUsb); 
    server.onNotFound(handleNotFound);
    server.begin();
-   Serial.println("HTTP server started");
 }
