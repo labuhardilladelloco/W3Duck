@@ -12,4 +12,4 @@ Conexiones:
 <img src="/W3Duck!/Conexiones.png" alt="Conexiones w3duck"/>
 
 Puedes obtener mas informacion acerca del proyecto en nuestro canal de youtube:
-https://youtu.be/pwI34rh-v8M
+https://youtu.be/mZ37ACNlzDM
