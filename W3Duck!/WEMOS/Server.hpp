@@ -6,11 +6,6 @@ void handleNotFound(){
  server.send(404, "text/plain", "Not found");
 }
 
-void inicio(){
-  String s=p_inicio();
-  server.send(200, "text/html",s );
-}
-
 
 
 void comUsb(){
@@ -19,7 +14,7 @@ void comUsb(){
 }
 
 void InitServer(){
-   server.on("/", inicio);
+   server.on("/", p_inicio);
    server.on("/prueba", comUsb); 
    server.onNotFound(handleNotFound);
    server.begin();
