@@ -15,8 +15,10 @@ Conexiones:
 
 
 
+
+
 Interface web:
-<img src="/W3Duck!/interface_web.png" alt="Conexiones w3duck"/>
+<img src="/W3Duck!/interface_web.png" alt="Interface web W3duck!"/>
 
 
 Puedes obtener mas informacion acerca del proyecto en nuestro canal de youtube:
