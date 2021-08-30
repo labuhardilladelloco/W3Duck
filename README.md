@@ -18,6 +18,7 @@ Conexiones:
 
 
 Interface web:
+<br>
 <img src="/W3Duck!/interface_web.png" alt="Interface web W3duck!"/>
 
 
