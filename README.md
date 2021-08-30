@@ -19,7 +19,7 @@ Conexiones:
 
 Interface web:
 <br>
-<img src="/W3Duck!/interface_web.png" alt="Interface web W3duck!"/>
+<img src="/W3Duck!/interface_web1.png" alt="Interface web W3duck!"/>
 
 
 Puedes obtener mas informacion acerca del proyecto en nuestro canal de youtube:
