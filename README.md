@@ -10,17 +10,18 @@ Se trata de un rubber ducky que permite ser controlado de forma inalambrica a tr
 
 Las placas usadas en este proyecto son la Cjmcu bad usb y la wemos d1 mini aunque podrían ser otras con características similares.
 
-Conexiones:
+**CONEXIONES:**
 <img src="/W3Duck!/Conexiones.png" alt="Conexiones w3duck"/>
 
 
 
 
 
-Interface web:
+**INTERFACE WEB:**
 <br>
 <img src="/W3Duck!/interface_web1.png" alt="Interface web W3duck!"/>
 
 
 Puedes obtener mas informacion acerca del proyecto en nuestro canal de youtube:
+<br>
 https://youtu.be/mZ37ACNlzDM
